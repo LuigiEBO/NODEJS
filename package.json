@@ -1,0 +1,14 @@
+{
+  "name": "api-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luigi Enrico Borges Oliveira",
+  "license": "ISC",
+  "description": "API desenvolvida no programa explorer da rocketseat",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
